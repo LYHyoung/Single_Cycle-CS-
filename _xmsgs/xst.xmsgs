@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"D:\Xilinx\workspace\SingleCycle\tb_SingleCycle.v" Line 55: System task <arg fmt="%s" index="1">dumpfile</arg> ignored for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"D:\Xilinx\workspace\SingleCycle\tb_SingleCycle.v" Line 56: System task <arg fmt="%s" index="1">dumpvars</arg> ignored for synthesis
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1689" delta="old" >"D:\Xilinx\workspace\SingleCycle\tb_SingleCycle.v" Line 66: System task finish is always executed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"D:\Xilinx\workspace\SingleCycle\tb_SingleCycle.v" Line 54: Using initial value of <arg fmt="%s" index="1">tb_i_rst_n</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"D:\Xilinx\workspace\SingleCycle\tb_SingleCycle.v" Line 16: Empty module &lt;<arg fmt="%s" index="1">tb_SingleCycle</arg>&gt; remains a black box.
+</msg>
+
+</messages>
+
