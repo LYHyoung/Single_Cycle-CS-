@@ -1,0 +1,4 @@
+verilog work "MyControl.v"
+verilog work "SingleCycle.v"
+verilog work "tb_SingleCycle.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

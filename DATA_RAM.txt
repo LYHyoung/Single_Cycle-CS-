@@ -1,0 +1,80 @@
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+00010010 00110100 01010110 01111000
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx 00000001
+xxxxxxxx xxxxxxxx xxxxxxxx 00000010
+xxxxxxxx xxxxxxxx xxxxxxxx 00000100
+xxxxxxxx xxxxxxxx xxxxxxxx 00001000
+
+xxxxxxxx xxxxxxxx xxxxxxxx 00010000
+xxxxxxxx xxxxxxxx xxxxxxxx 00100000
+xxxxxxxx xxxxxxxx xxxxxxxx 01000000
+xxxxxxxx xxxxxxxx xxxxxxxx 10000000
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+

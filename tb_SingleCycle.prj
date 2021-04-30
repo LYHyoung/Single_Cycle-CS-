@@ -1,0 +1,3 @@
+verilog work "MyControl.v"
+verilog work "SingleCycle.v"
+verilog work "tb_SingleCycle.v"

@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.xst" -ofn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.xst" -ofn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.xst" -ofn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.xst" -ofn "D:/Xilinx/workspace/SingleCycle/tb_SingleCycle.syr" 
